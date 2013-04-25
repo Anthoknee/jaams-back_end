@@ -1,0 +1,19 @@
+c:\users\mark\documents\visual studio 2012\Projects\jaamsbackend1\jaamsbackend1\bin\Debug\jaamsbackend1.exe.config
+c:\users\mark\documents\visual studio 2012\Projects\jaamsbackend1\jaamsbackend1\bin\Debug\jaamsbackend1.exe
+c:\users\mark\documents\visual studio 2012\Projects\jaamsbackend1\jaamsbackend1\bin\Debug\jaamsbackend1.pdb
+c:\users\mark\documents\visual studio 2012\Projects\jaamsbackend1\jaamsbackend1\obj\Debug\jaamsbackend1.csprojResolveAssemblyReference.cache
+c:\users\mark\documents\visual studio 2012\Projects\jaamsbackend1\jaamsbackend1\obj\Debug\jaamsbackend1.Form1.resources
+c:\users\mark\documents\visual studio 2012\Projects\jaamsbackend1\jaamsbackend1\obj\Debug\jaamsbackend1.Properties.Resources.resources
+c:\users\mark\documents\visual studio 2012\Projects\jaamsbackend1\jaamsbackend1\obj\Debug\jaamsbackend1.csproj.GenerateResource.Cache
+c:\users\mark\documents\visual studio 2012\Projects\jaamsbackend1\jaamsbackend1\obj\Debug\jaamsbackend1.exe
+c:\users\mark\documents\visual studio 2012\Projects\jaamsbackend1\jaamsbackend1\obj\Debug\jaamsbackend1.pdb
+c:\users\mark\documents\visual studio 2012\Projects\jaamsbackend1\jaamsbackend1\obj\Debug\jaamsbackend1.Form2.resources
+C:\Users\ssrinivx\Desktop\CSC131Proj\Back End\jaamsbackend1\bin\Debug\jaamsbackend1.exe.config
+C:\Users\ssrinivx\Desktop\CSC131Proj\Back End\jaamsbackend1\obj\Debug\jaamsbackend1.exe
+C:\Users\ssrinivx\Desktop\CSC131Proj\Back End\jaamsbackend1\obj\Debug\jaamsbackend1.pdb
+C:\Users\ssrinivx\Desktop\CSC131Proj\Back End\jaamsbackend1\obj\Debug\jaamsbackend1.csprojResolveAssemblyReference.cache
+C:\Users\ssrinivx\Desktop\CSC131Proj\Back End\jaamsbackend1\obj\Debug\jaamsbackend1.Form1.resources
+C:\Users\ssrinivx\Desktop\CSC131Proj\Back End\jaamsbackend1\obj\Debug\jaamsbackend1.Form2.resources
+C:\Users\ssrinivx\Desktop\CSC131Proj\Back End\jaamsbackend1\obj\Debug\jaamsbackend1.login.resources
+C:\Users\ssrinivx\Desktop\CSC131Proj\Back End\jaamsbackend1\obj\Debug\jaamsbackend1.Properties.Resources.resources
+C:\Users\ssrinivx\Desktop\CSC131Proj\Back End\jaamsbackend1\obj\Debug\jaamsbackend1.csproj.GenerateResource.Cache
